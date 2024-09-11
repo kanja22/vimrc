@@ -6,5 +6,6 @@ set shiftwidth=4
 
 set hlsearch
 
+syntax on
 colors tender
 
